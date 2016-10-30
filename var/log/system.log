@@ -1,0 +1,50 @@
+2014-06-25T16:02:06+00:00 ERR (3): Warning: getimagesize(http://localhost/gayshop/skin/adminhtml/base/default/images/person.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in D:\Xampp\htdocs\gayshop\lib\Varien\Image\Adapter\Abstract.php on line 87
+2014-06-25T16:02:11+00:00 ERR (3): Warning: getimagesize(http://localhost/gayshop/skin/adminhtml/base/default/images/iphone.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in D:\Xampp\htdocs\gayshop\lib\Varien\Image\Adapter\Abstract.php on line 87
+2014-06-25T16:04:16+00:00 ERR (3): Warning: getimagesize(http://localhost/gayshop/skin/adminhtml/base/default/images/flags/default.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in D:\Xampp\htdocs\gayshop\lib\Varien\Image\Adapter\Abstract.php on line 87
+2014-06-25T16:04:21+00:00 ERR (3): Warning: getimagesize(http://localhost/gayshop/skin/adminhtml/base/default/images/flags/fr.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in D:\Xampp\htdocs\gayshop\lib\Varien\Image\Adapter\Abstract.php on line 87
+2014-06-25T16:04:27+00:00 ERR (3): Warning: getimagesize(http://localhost/gayshop/skin/adminhtml/base/default/images/flags/it.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in D:\Xampp\htdocs\gayshop\lib\Varien\Image\Adapter\Abstract.php on line 87
+2014-06-25T16:04:32+00:00 ERR (3): Warning: getimagesize(http://localhost/gayshop/skin/adminhtml/base/default/images/flags/default_de.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+  in D:\Xampp\htdocs\gayshop\lib\Varien\Image\Adapter\Abstract.php on line 87
+2014-06-28T18:28:17+00:00 ERR (3): Warning: Illegal string offset 'newsletter'  in D:\Xampp\htdocs\gayshop\app\design\frontend\ultimo\default\template\page\html\footer.phtml on line 136
+2014-06-28T18:29:01+00:00 ERR (3): Warning: Illegal string offset 'newsletter'  in D:\Xampp\htdocs\gayshop\app\design\frontend\ultimo\default\template\page\html\footer.phtml on line 136
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 506: parser error : Opening and ending tag mismatch: block line 499 and reference  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/reference&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): 		            ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 513: parser error : Opening and ending tag mismatch: reference line 493 and catalog_category_layered  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/catalog_category_layered&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): 	                           ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 752: parser error : Opening and ending tag mismatch: catalog_category_layered line 487 and layout  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/layout&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string():          ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 752: parser error : Premature end of data in tag layout line 2  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/layout&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:54+00:00 ERR (3): Warning: simplexml_load_string():          ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 506: parser error : Opening and ending tag mismatch: block line 499 and reference  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/reference&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): 		            ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 513: parser error : Opening and ending tag mismatch: reference line 493 and catalog_category_layered  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/catalog_category_layered&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): 	                           ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 752: parser error : Opening and ending tag mismatch: catalog_category_layered line 487 and layout  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/layout&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string():          ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 752: parser error : Premature end of data in tag layout line 2  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/layout&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:09:59+00:00 ERR (3): Warning: simplexml_load_string():          ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 506: parser error : Opening and ending tag mismatch: block line 499 and reference  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/reference&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): 		            ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 513: parser error : Opening and ending tag mismatch: reference line 493 and catalog_category_layered  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/catalog_category_layered&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): 	                           ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 752: parser error : Opening and ending tag mismatch: catalog_category_layered line 487 and layout  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/layout&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string():          ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 752: parser error : Premature end of data in tag layout line 2  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/layout&gt;  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
+2014-06-29T17:10:03+00:00 ERR (3): Warning: simplexml_load_string():          ^  in D:\Xampp\htdocs\gayshop\app\code\core\Mage\Core\Model\Layout\Update.php on line 444
